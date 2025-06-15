@@ -83,21 +83,6 @@ Modelin performansı şu grafiklerle sunulmuştur:
 
 ---
 
-## 📁 Klasör Yapısı
-
-```
-.
-├── data/		# Veri dosyaları (json, csv)
-├── models/		# Kaydedilen modeller (.pt, .pkl)
-├── figures/		# Grafik çıktıları
-├── app.py		# Gradio arayüz
-├── train_item.py	# Item modeli egitimi
-├── train_perk.py	# Perk modeli egitimi
-└── README.md		# Bu dosya
-```
-
----
-
 ## 📚 Kaynaklar
 
 - Riot API: https://developer.riotgames.com/docs/portal
